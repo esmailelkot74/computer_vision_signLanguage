@@ -1,6 +1,6 @@
 # computer_vision_signLanguage
-this is repo for sign language project
 
+Sign language detector with Python, OpenCV and Mediapipe !
 
 
 
