@@ -9,6 +9,10 @@ This project aims to develop a system for recognizing sign language gestures usi
 
 
 
+https://github.com/esmailelkot74/computer_vision_signLanguage/assets/147884500/8c24251e-c2cd-49fd-8968-8849cfe397ba
+
+
+
 
 ## Data
 
