@@ -1,3 +1,7 @@
+
+
+https://github.com/esmailelkot74/computer_vision_signLanguage/assets/147884500/ff27a2e4-5e89-4ebe-9749-e7e3ad671f68
+
 # Sign Language Recognition using Computer Vision
 
 This project aims to develop a system for recognizing sign language gestures using computer vision techniques.
